@@ -1,14 +1,14 @@
 const dc = {
     myself: "Tớ",
     //đièn tên và gmail của cậu vào đây nha
-    email: "@gmail.com",
+    email: "nongvanson45@gmail.com",
     meta: {
         //hiển thị lúc share bài lên fb
         img: "https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png",
     },
     headCard: {
         //title có tên rồi nha
-        title: "Lưu bút của",
+        title: "Lưu bút của Lê Long",
         image: "https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png",
         content: "Mọi người viết nội dung vào đây nhé",
         content2: "Có gì không hiểu có thể hỏi tớ nè!",
@@ -54,7 +54,7 @@ const dc = {
         subheader: "Nhớ thay thumbnail nha",
         image: "https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png",
         content: "Cái này sau khi gửi nè",
-        content2:"Nhớ nhắc mọi người điền captcha nha 🤖.",
+        content2:"Nhớ điền captcha nha 🤖.",
         button: "Gửi cho tớ lunnn",
     },
 }
